@@ -128,3 +128,5 @@ The **PRTGService** is a Windows Service that periodically retrieves sensor data
 
 - **Configurator**:
   - **Configurator.exe** creates and manages the `appsettings.json`.
+
+(C) Tom Kölsch @ CNAG

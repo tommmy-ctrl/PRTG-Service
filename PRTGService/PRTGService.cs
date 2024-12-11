@@ -124,7 +124,7 @@ namespace PRTGService
 
                 if (string.IsNullOrEmpty(port))
                 {
-                    port = protocol == "https" ? "443" : "80"; // Standardport setzen
+                    port = protocol == "https" ? "443" : "80"; // Standardport setzen 
                 }
 
                 string apiUrl = useAPIToken

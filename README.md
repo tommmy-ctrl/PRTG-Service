@@ -14,6 +14,7 @@ The **PRTGService** is a Windows Service that periodically retrieves sensor data
 ---
 
 ## Installation Guide
+**Download the latest version under Releases**
 ### Steps:
 1. **Prepare Files**:
    Unzip the `PRTGService.zip`

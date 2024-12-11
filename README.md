@@ -54,7 +54,7 @@ The **PRTGService** is a Windows Service that periodically retrieves sensor data
     {
       "Servers": [
         {
-          "ServerIP": "monitoring1.website.de",
+          "ServerIP": "yourcoreserver.com",
           "UseAPIToken": true,
           "APIToken": "YourAPIKey",
           "Username": "N/A",

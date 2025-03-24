@@ -1,7 +1,7 @@
-# PRTGService - Documentation
+# PRTG Service - Documentation
 
 ## Description
-The **PRTGService** is a Windows Service that periodically retrieves sensor data from multiple PRTG servers and saves it in JSON files.
+The **PRTG Service** is a Windows Service that periodically retrieves sensor data from multiple PRTG servers and saves it in JSON files.
 
 ---
 
